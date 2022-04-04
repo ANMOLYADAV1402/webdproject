@@ -1,0 +1,1 @@
+This is a group project on a MERN movie review website.
